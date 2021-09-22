@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277627150396",
+    "project_id": "logintrial-cc668",
+    "storage_bucket": "logintrial-cc668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277627150396:android:963d03acd05c975d27e339",
+        "android_client_info": {
+          "package_name": "com.example.logintrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277627150396-h1mh723qnrov71ncqg4e6jj3vrmbmhqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWS3c1BDbdvb76TgImDPUWzqqpHoa1sDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277627150396-h1mh723qnrov71ncqg4e6jj3vrmbmhqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
